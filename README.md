@@ -8,7 +8,7 @@ The repository includes:
   1. Cleaned and anonymized datasets used for estimation
   2. Well-documented Stata do-files for data preparation, variable construction, and estimation
   3. Bivariate probit model specifications, diagnostics, and marginal effects
-  4. Robustness checks and alternative welfare definitions
+
 
 
 Key covariates include household demographics, asset ownership, access to extension services, market access, agro-ecological characteristics, and institutional factors. The analysis places particular emphasis on interpreting marginal effects and the correlation coefficient (ρ) to understand the extent of unobserved linkage between welfare and SAP adoption.
