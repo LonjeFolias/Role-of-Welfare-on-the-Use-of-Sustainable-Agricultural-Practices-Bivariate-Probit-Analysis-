@@ -1,4 +1,4 @@
-# Role of Welfare on the-Use-of-Sustainable-Agricultural-Practices-Bivariate-Probit-Analysis-
+# Role of Welfare on the Use of Sustainable Agricultural Practices Bivariate Probit Analysis
 
 This repository contains the full analytical workflow for an empirical study examining the role of household welfare in the adoption of Sustainable Agricultural Practices (SAPs) using a bivariate probit (biprobit) model. The study is motivated by the recognition that welfare status and technology adoption decisions are often jointly determined, and that ignoring this interdependence may lead to biased estimates.
 
