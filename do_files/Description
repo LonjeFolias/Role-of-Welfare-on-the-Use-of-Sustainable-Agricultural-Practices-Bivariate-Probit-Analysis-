@@ -1,0 +1,23 @@
+# Description of Do-files
+
+Data Management.do
+This is the core data preparation script. It imports raw survey data, cleans inconsistencies, handles missing values, creates harmonized variables, and prepares analysis-ready datasets. Variable recoding and basic transformations are performed here.
+Note: Data Management [Recovered].do is a backup version retained for reference and version recovery purposes.
+________________________________________
+Labels.do
+This file applies variable labels and value labels to improve readability and interpretability of the dataset. It ensures that outputs (tables, regression results, and summaries) are easy to understand and presentation-ready.
+________________________________________
+Assets.do
+Constructs household asset indicators and asset-based indices. This includes ownership of durable goods, housing characteristics, and other wealth proxies commonly used in welfare and poverty analysis.
+________________________________________
+expenditure.do
+Generates household consumption and expenditure aggregates, potentially disaggregated by category (e.g., food, non-food). These variables are typically used as welfare measures or as inputs into poverty estimation.
+________________________________________
+IHSVclimate_do.do
+Creates and processes climate-related variables, including exposure or shocks relevant to household livelihoods. This file links environmental or climate indicators to household-level data for further analysis.
+________________________________________
+FGT0.do
+Implements poverty analysis using the Foster–Greer–Thorbecke (FGT) framework, specifically the headcount index (FGT(0)). It defines poverty lines and computes poverty incidence indicators.
+________________________________________
+Model Estimation.do
+Contains the econometric analysis section of the project. This file estimates regression models (e.g., probit, logit, OLS, or other specified models) to assess determinants of welfare outcomes, poverty status, or related indicators.
