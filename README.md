@@ -9,9 +9,8 @@ The repository includes:
   2. Well-documented Stata do-files for data preparation, variable construction, and estimation
   3. Bivariate probit model specifications, diagnostics, and marginal effects
 
-
-
 Key covariates include household demographics, asset ownership, access to extension services, market access, agro-ecological characteristics, and institutional factors. The analysis places particular emphasis on interpreting marginal effects and the correlation coefficient (ρ) to understand the extent of unobserved linkage between welfare and SAP adoption.
 
 Overall, this repository is intended to support reproducible research, inform policy discussions on inclusive agricultural transformation, and provide a practical reference for researchers applying bivariate probit models in development and agricultural economics.
+
 For further information or questions contact lonjefolias@hotmail.com, +265 992 888 003 (whatsapp) 
