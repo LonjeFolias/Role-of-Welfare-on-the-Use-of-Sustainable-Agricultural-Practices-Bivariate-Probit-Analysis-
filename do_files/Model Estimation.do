@@ -100,8 +100,8 @@
 
 * Equation globals
 	global poverty_eq		agesq		gender		hh_size		shock 		marital2 marital3	off_farm com_cd71	social_nets		credit 	fisp	
-	global foodesecurity_eq	agesq		gender		hh_size		dependency	TLU		shosck 		marital2 marital3	off_farm com_cd71	social_nets		credit 	fisp	
-	global CSA_eq			agesq		gender		hh_size		extension  	shock   fisp  		type2 		type3 			type4  	quality2 	quality3
+	global foodesecurity_eq	agesq		gender		hh_size		dependency	TLU		shock 		marital2 marital3	off_farm com_cd71	social_nets		credit 	fisp	
+	global CSA_eq			agesq		gender		hh_size		extension  	shock    type2 		type3 			type4  	quality2 	quality3
 	
 	
 * Descriptive globals
@@ -219,7 +219,7 @@ collect clear
 		collect style 		putdocx, layout(autofitcontents)
 		collect export 		dydx_poverty.docx, as(docx) replace
 		
-		
+	ok	
 ********************************************************************************
 **# Food Security Model Estimations
 ********************************************************************************		
